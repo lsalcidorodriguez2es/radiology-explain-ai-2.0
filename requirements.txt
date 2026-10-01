@@ -1,0 +1,10 @@
+streamlit==1.64.0
+numpy==2.4.4
+pandas==3.0.2
+pillow==12.1.1
+scipy
+# Ruta DenseNet121 (opcional para el motor simulado)
+torch
+torchvision
+# Pruebas
+pytest
