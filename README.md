@@ -11,3 +11,4 @@ Pruebas: `pytest -q tests`
 Experimentos del capítulo 6: `python validacion/experimentos.py` (genera `validacion/resultados.json`).
 
 Las versiones v0.1.0 y v0.1.1 se conservan en `validacion/referencia/` como líneas base de comparación.
+Proyecto académico desarrollado para la Maestría en Inteligencia Artificial — UNIR.
